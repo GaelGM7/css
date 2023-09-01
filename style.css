@@ -1,0 +1,9 @@
+.FF-E{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fb6f24;
+    text-align: center;
+    border-style: dashed solid dotted double;
+    border-color: #0a4b75 #1e6495 #5191c1 #8ca315;
+    background-color: lightblue;
+    border-width: 10px 3px 5px 1px;
+}
